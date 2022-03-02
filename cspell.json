@@ -1,0 +1,19 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["reduxjs", "hookform", "persistor", "noindex", "clickaway"],
+  "flagWords": ["hte"],
+  "ignorePaths": [
+    ".git",
+    ".gitignore",
+    "./node_modules",
+    "/out",
+    "/public",
+    "/stories/assets",
+    "cspell.json",
+    "jest.config.js",
+    "package.json",
+    "README.md",
+    "tsconfig.tsbuildinfo"
+  ]
+}
